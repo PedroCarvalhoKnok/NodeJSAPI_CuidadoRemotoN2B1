@@ -1,2 +1,5 @@
-# NodeJSAPI_CuidadoRemotoN2B1
-API para CRUD de usuarios e agendamento de tarefas
+# MongoSample
+
+Este é um exemplo de uso do ExpressJS + NodeJS + Mongo para fazer uma API.
+
+Essa API não tem nenhum tipo de autenticação.

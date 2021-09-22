@@ -1,8 +1,7 @@
 {
-    "connectionString": "mongodb://localhost:27017/mongo-CuidadoRemoto",
-    "connectionStringV2": "mongodb://localhost:27017",
-    "databaseV2":"mongo-CuidadoRemoto",
-    "version": "1.0.3 - 18/03/2021",
+    "connectionStringV2": "mongodb://felipe2:o0CpPCxns5f12wHvGIvbQhqIlVsfQ73rUJop6YtF2dnh2ZkAlzAggWCbobMEvqYSpXdXMCjXmKOjk1iYKEmYEA==@felipe2.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@felipe2@",
+    "databaseV2":"CuidadoRemoto",
+    "version": "1.0.0 - 20/09/2021 - Cuidado Remoto",
     "port": 9090,
-    "secret": "mongo-CuidadoRemotoSecret"
+    "secret": ""
 }
