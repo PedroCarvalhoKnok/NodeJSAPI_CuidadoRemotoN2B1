@@ -6,16 +6,16 @@ Essa API não tem nenhum tipo de autenticação.
 
 ### MANUAL PARA GESTÃO DO CÓDIGO FONTE ###
 
-#**ORGANIZAÇÃO**
+# **ORGANIZAÇÃO**
 
-##**BRANCHS**
+## **BRANCHS**
 
 * Master
 * Stable
 * Develop
 * Feature/HOTFIX Branchs
 
-##**DEFINIÇÕES**
+## **DEFINIÇÕES**
 
 1 - Branch **Master** **->** 
   Vai conter a versão final do projeto com todas as RC alinhados de 
