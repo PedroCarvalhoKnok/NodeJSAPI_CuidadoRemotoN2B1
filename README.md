@@ -35,13 +35,24 @@ Essa API não tem nenhum tipo de autenticação.
     **PS:** Usaremos /FEATURE para novas funcionalidades e /HOTFIX para ajustes de possíveis bugs que occorram.
     
  ### **TAGS E VERSIONAMENTO**
+ 
     Será utilizado **TAGS** para controle de versão de cada realease, seguindo uma seguinte regra:
     Após o termino de desenvolvimento de uma feature e merge para **Develop** será criada a seguinte tag:
-   **vX.Y.Z.W - rc** **->** 
-   **X** -> Iniciará com número 1 e a cada grande ajuste ou alteração de uso de framework ou migração que impacte no fim será aumentado +1.
-   **Y** -> Iniciando do 0 a cada implementação ou grande ajuste que envolva o BackEnd da aplicação e uso de APIs será incrementado +1.
-   **Z** -> Iniciando do 0 a cada ajuste de bug(HOTFIX) será aumentado 1 dígito.
-   **W** -> Será sempre incrementado para controle dos números de commit e a organização.
+    
+   **vX.Y.Z.W - rc** **->** <br />
+   **X** -> Iniciará com número 1 e a cada grande ajuste ou alteração de uso de framework ou migração que impacte no fim será aumentado **+1**. <br />
+   **Y** -> Iniciando do 0 a cada implementação ou grande ajuste que envolva o BackEnd da aplicação e uso de APIs será incrementado **+1**. <br />
+   **Z** -> Iniciando do 0 a cada ajuste de bug(HOTFIX) será aumentado **1** dígito. <br />
+   **W** -> Será sempre incrementado para controle dos números de commit e a organização. <br />
+   
+   
+    Para a Branch **Stable** as tags também serão criadas seguindo um padrão no git:
+    
+     **vX.Y.Z** **->** <br />
+   **X** -> Iniciará com número 1 e a cada grande ajuste ou alteração de uso de framework ou migração que impacte no fim será aumentado **+1**. <br />
+   **Y** -> Iniciando do 0 a cada implementação ou grande ajuste que envolva o BackEnd da aplicação e uso de APIs será incrementado **+1**. <br />
+   **Z** -> Iniciando do 0 a cada ajuste de bug(HOTFIX) será aumentado **1** dígito. <br />
+    
    
  
  
